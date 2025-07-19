@@ -1,0 +1,15 @@
+.bg {
+    background-color: rgba(17, 25, 35, 0.7);
+    width: 100vw;
+    position: fixed;
+    padding: 1em;
+}
+
+.title {
+    color: white;
+    font-size: 3em;
+}
+
+.button_bg {
+    color: white;
+}
