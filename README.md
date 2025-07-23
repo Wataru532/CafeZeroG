@@ -2,4 +2,4 @@
 ### 山東祭2025 3-6 クラス企画
 宇宙カフェをテーマに、さまざまな味の揚げパンと、宇宙サイダーを販売します。<br>
 
-©︎2025 3-6 Yamatosai
+©︎2025 Cafe Zero Gravity. All Rights Reserved.
